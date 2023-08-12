@@ -2,6 +2,8 @@
 
 Easy-to-use library to get Turbocharger-style LEDs on existing SDVX arduino code. This code targets both standard WS2812b strips as well as the MBI6024 chips used in the actual Turbocharger controller.
 
+Click [here to see a test video!](https://www.youtube.com/watch?v=Q7s8RWTsb6Y)
+
 ## How to Install
 
 Download this repo using the `Code -> Download ZIP` button in the top right, then install in the Arduino IDE using the manual install option.
